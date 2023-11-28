@@ -1,0 +1,13 @@
+Start with reading : https://ctf101.org/reverse-engineering/overview/
+Reversing tools tutorial : https://infosecwriteups.com/reverse-engineering-a-binary-with-ida-free-346cab16be9f
+gdb tutorial : https://slava-moskvin.medium.com/gdb-tutorial-for-reverse-engineers-breakpoints-modifying-memory-and-printing-its-contents-46280ac37aad
+
+Tips and tricks to reverse c binary:
+	Use a Debugger like gdb:
+		Set breakpoints and step through the code to understand its execution flow.
+	Check Function Calls:
+		Identify important functions and understand how they contribute to the program's behavior.
+	Look for Strings:
+		Examine strings in the binary; they might provide clues or reveal the flag.
+	Use Static Analysis:
+		Use tools like ghidra or IDA free for static analysis to visualize and understand the code.
