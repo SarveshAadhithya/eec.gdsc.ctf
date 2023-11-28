@@ -1,6 +1,5 @@
 # Introduction to Reverse Engineering in Cybersecurity
 
-Welcome to the [Your Club Name] Cybersecurity Repository! In this section, we explore the significance of learning reverse engineering and its crucial role in the realm of cybersecurity.
 
 ## Why Learn Reverse Engineering?
 
@@ -21,7 +20,7 @@ Welcome to the [Your Club Name] Cybersecurity Repository! In this section, we ex
 
 ## Getting Started with Reverse Engineering
 
-If you're new to reverse engineering, don't worry! We've curated a collection of resources and challenges in our repository to help you get started. Check out the [Basic Reversing Guide](https://example.com/basic-reversing-guide) for beginners and explore our CTF challenges under the "ctfs" folder.
+If you're new to reverse engineering, don't worry! We've curated a collection of resources and challenges in our repository to help you get started. 
 
 Happy learning and happy hacking!
 
