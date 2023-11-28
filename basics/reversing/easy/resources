@@ -1,1 +1,21 @@
+Open the Python script and start unraveling the obfuscation to uncover the flag.
 
+Tips and Tricks for Beginners:
+  Understand the Basics:
+    If you are new to reversing, start by learning the basics of Python and common obfuscation techniques.
+
+  Use Online Resources:
+    Refer to online platforms like tryhackme or OverTheWire for beginner-friendly challenges and tutorials.
+    reference : https://www.youtube.com/watch?v=0W0T2p_LKVQ
+  
+  Learn from Documentation:
+    Explore the official Python documentation and resources related to reversing and cryptography.
+  
+  Collaborate and Ask for Help:
+    Don't hesitate to collaborate with fellow club members or seek help from online communities if you get stuck.
+  
+  Solving the Challenge
+    Once you've successfully reversed the Python code, you should find the hidden flag/password.
+  
+Happy reversing and have fun exploring the world of cybersecurity!
+  
