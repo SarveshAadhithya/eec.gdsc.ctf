@@ -2,3 +2,6 @@ You can start solving the challenges easily by cloning the binary to your local 
 Using the command : git clone <binary path>
               (or)
 You can download the entire repository at one shot
+
+Please be aware that the binaries in reversing and pwning directories are in ELF FORMAT which means they are Linux executables and not windows specific.
+So make sure that you use either WSL(WINDOWS SUBSYSTEM FOR LINUX) or LINUX VM or LINUX OS to run the binary
