@@ -13,7 +13,7 @@ a[81]+a[68]+a[66]+a[83])
     sys.exit(0)
     return False
 def arg111(arg444):
-  return f"You Got your flag!! \n Flag : {arg133('giveme')} \n Submit the password asap to earn points" if arg444==1 else "Password incorrect"
+  return f"You Got your flag!! \n Flag : gdsc.ctf[{arg133('giveme')}] \n Submit the password asap to earn points" if arg444==1 else "Password incorrect"
 def arg232():
   return input(a[47]+a[75]+a[68]+a[64]+a[82]+a[68]+a[94]+a[68]+a[77]+a[83]+\
 a[68]+a[81]+a[94]+a[66]+a[78]+a[81]+a[81]+a[68]+a[66]+a[83]+\
