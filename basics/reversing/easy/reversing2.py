@@ -2,7 +2,7 @@ import sys
 a = "!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ"+ \
             "[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "
 def arg133(arg432):
-  flag = a[71]+a[64]+a[79]+a[79]+a[88]+a[66]+a[71]+a[64]+a[77]+a[66]+a[68]:
+  flag = a[71]+a[64]+a[79]+a[79]+a[88]+a[66]+a[71]+a[64]+a[77]+a[66]+a[68]
   if arg432=="giveme":return flag
   if arg432 == flag:
     return True
