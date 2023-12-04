@@ -27,7 +27,7 @@ def decode_secret(secret):
         original_index = (index + rotate_const) % len(alphabet)
         decoded = decoded + alphabet[original_index]
 
-    print(decoded)
+    print("Your flag : ",decoded)
 
 
 
